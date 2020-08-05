@@ -1,11 +1,11 @@
-## covidDash -- An interactive interface for displaying live COVID-19 data.
+## covidDash - An interactive interface for displaying live COVID-19 data.
 
-## Introduction --
+## Introduction -
 
-## Data --
+## Data -
 
-## Methodology --
+## Methodology -
 
-## Results -- 
+## Results -
 
-## WIP
+## WIP -
