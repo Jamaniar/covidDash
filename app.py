@@ -20,9 +20,8 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 pd.options.mode.chained_assignment = None
 
-#import figures -Junaid 06/26/2020
-import Covid19_figures as figures
-#importing the data for counties - Junaid 06/29/2020
+import figures as figures
+
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     counties = json.load(response)
 
